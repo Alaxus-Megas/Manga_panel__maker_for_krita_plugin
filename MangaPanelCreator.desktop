@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=MangaPanelCreator
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Manga Panel Creator
+Comment=Creates customizable comic panels using Vector Layers, for mangas or comics.
