@@ -5,7 +5,7 @@
 
 **Manga Panel Creator Pro** is a high-performance, professional tool designed for comic and manga artists using Krita. It automates the tedious process of creating panels, folders, and masking layers, allowing you to focus purely on your art.
 
-![Panel Maker Manga](panelmakermanga.png)
+![Panel Maker Manga](MangaPanelCreator/panelmakermanga.png)
 
 
 ---
