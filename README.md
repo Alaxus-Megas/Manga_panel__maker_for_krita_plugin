@@ -8,6 +8,10 @@
 ![Panel Maker Manga](MangaPanelCreator/panelmakermanga.png)
 
 new update 01/29/26: Now you can create panels with columns of asymmetrical numbers of rows, only in a rectangular shape, using a button that says "custom".
+
+![Panel Maker Manga](MangaPanelCreator/panel2.png)
+
+new update 01/30/26: new custom sizes function on custom mode.
 ---
 
 🛠 Installation
